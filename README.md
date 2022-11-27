@@ -8,8 +8,7 @@
 
 
 _En este proyecto hemos hecho una práctica , para el bootcamp mujeres in tech con Javascript sin navegador._
-
-En esta práctica se ha propuesto desarrollar una aplicación con unos requisitos que ingresa el usuario y realizan una acción que ayudan a gestionar los alumnos de una clase.
+Se ha propuesto desarrollar una aplicación con unos requisitos que ingresa el usuario y realizan una acción que ayudan a gestionar los alumnos de una clase.
 
 Las acciones son las siguientes: 
 1- Mostrar en formato de tabla todos los alumnos.
