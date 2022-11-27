@@ -46,7 +46,7 @@ Mira CODE en **HTTPS** para copiar el enlace. Abres tu editor de texto con el qu
 En la terminal ingresas a la carpeta donde vas a clonar el git con el siguiente comando: git clone https://github.com/NicoleMantilla/practice-js.git
 
 ## El stack tecnológico utilizado ha sido:
-Código heredado maquetado y desarrollado con HTML, CSS.
+Código heredado maquetado y desarrollado con Javascript.
 <br/>
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="html5" width="40" height="40"/>
