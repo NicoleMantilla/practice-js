@@ -1,4 +1,4 @@
-# practice-Javascript
+# Practice-Javascript
 # Challenge
 
 <div align="center">
