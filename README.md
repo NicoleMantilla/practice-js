@@ -9,9 +9,33 @@
 
 _En este proyecto hemos hecho una práctica , para el bootcamp mujeres in tech con Javascript sin navegador._
 
-En esta práctica se ha propuesto desarrollar una aplicación con unos requisitos que ingresa el usuario y realizan una acción.
+En esta práctica se ha propuesto desarrollar una aplicación con unos requisitos que ingresa el usuario y realizan una acción que ayudan a gestionar los alumnos de una clase.
 
 Las acciones son las siguientes: 
+1- Mostrar en formato de tabla todos los alumnos.
+2- Mostrar por consola la cantidad de alumnos que hay en clase.
+3- Mostrar por consola todos los nombres de los alumnos.
+4- Eliminar el último alumno de la clase.
+5- Eliminar un alumno aleatoriamente de la clase.
+6- Mostrar por consola todos los datos de los alumnos que son chicas.
+7- Mostrar por consola el número de chicos y chicas que hay en la clase.
+8- Mostrar true o false por consola si todos los alumnos de la clase son chicas.
+9- Mostrar por consola los nombres de los alumnos que tengan entre 20 y 25 años.
+10- Añadir un alumno nuevo con los siguientes datos:
+nombre aleatorio.
+edad aleatoria entre 20 y 50 años.
+género aleatorio.
+listado de calificaciones vacío.
+¡OJO!, el nombre y el género tienen que ir acordes.
+
+11- Mostrar por consola el nombre de la persona más joven de la clase.
+¡OJO!, si varias personas de la clase comparten la edad más baja, cualquiera de ellos es una respuesta válida.
+
+12- Mostrar por consola la edad media de todos los alumnos de la clase.
+13- Mostrar por consola la edad media de las chicas de la clase.
+14- Añadir nueva nota a los alumnos. Por cada alumno de la clase, tendremos que calcular una nota de forma aleatoria(número entre 0 y 10) y añadirla a su listado de notas.
+15- Ordenar el array de alumnos alfabéticamente según su nombre.
+
 
 
 
